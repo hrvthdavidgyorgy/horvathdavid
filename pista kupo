@@ -1,0 +1,3 @@
+kupi=['sári','gigi','anna','hanna','béla']
+for pista in kupi:
+    print(pista)
